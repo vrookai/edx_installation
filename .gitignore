@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# config files
+
+edx-platform/config.yml
+edx-platform/generate-passwd/
+edx-platform/install.out
+edx-platform/my-passwords.yml
+edx-platform/native.sh
+edx-platform/passwords-template.yml
