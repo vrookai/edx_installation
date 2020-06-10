@@ -21,21 +21,21 @@ Note: Keep a eye on the services that are running.
 
 SSH into director instance and clone the repository
 
-'''
+```
 git clone https://github.com/vrookai/edx_installation
-'''
+```
 
 Setup the director by running 
 
-'''
+```
 sudo bash ./bootstrap_director.sh
-'''
+```
 
 To update the repository, run 
 
-'''
+```
 sudo bash ./update_director.sh
-'''
+```
 
 ### Edx-platform
 
