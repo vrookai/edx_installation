@@ -136,3 +136,9 @@ edx-platform/install.out
 edx-platform/my-passwords.yml
 edx-platform/native.sh
 edx-platform/passwords-template.yml
+edx-platform/logs/
+
+insights/vars-analytics.yml
+insights/emr-vars.yml
+insights/analytics-override.cfg
+

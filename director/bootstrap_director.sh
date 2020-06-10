@@ -16,7 +16,7 @@ echo "export PIP_VIRTUALENV_BASE=~/virtualenvs" >> ~/.bashrc
 source ~/.bashrc
 
 virtualenv edx-configuration
-source virtualenvs/edx-configuration/bin/activate
+source ~/virtualenvs/edx-configuration/bin/activate
 
 git clone https://github.com/nikhilkanta/configuration
 cd configuration
