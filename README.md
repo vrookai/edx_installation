@@ -15,7 +15,7 @@ EMR and Elastic search instances for Insights - Beware EMR instances are a costl
 
 Note: Keep a eye on the services that are running.
 
-## Installtion
+## Installation
 
 ### Director
 

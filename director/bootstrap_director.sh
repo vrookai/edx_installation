@@ -18,6 +18,7 @@ source ~/.bashrc
 virtualenv edx-configuration
 source ~/virtualenvs/edx-configuration/bin/activate
 
+cd ~
 git clone https://github.com/nikhilkanta/configuration
-cd configuration
+cd ~/configuration
 sudo make requirements
